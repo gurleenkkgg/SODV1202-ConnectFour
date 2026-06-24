@@ -13,4 +13,4 @@
 
         public abstract int ChooseColumn(Board board);
     }
-}
+}  
